@@ -13,3 +13,6 @@ Designed and developed a web application that generates random passwords based o
 <br>
 <br>
 
+## 📬 Connect With Me
+
+- **LinkedIn** - [Dev Patidar](https://www.linkedin.com/in/dev-patidar-733b26248/)
